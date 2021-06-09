@@ -620,7 +620,7 @@ header .container .ham-icon{
     color: white;
     font-size: 14px;
 }
-@media(min-width:1199px){
+@media(min-width:1000px){
     .stats .container .box{
         flex-basis: 25%;
     }
