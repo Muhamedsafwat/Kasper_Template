@@ -903,6 +903,7 @@ header .container .ham-icon{
     border: none;
     outline: none;
     margin-left: 60px;
+    color: white;
 }
 .subscribe .container form input::placeholder{
     color: white;
