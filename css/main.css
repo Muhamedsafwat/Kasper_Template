@@ -596,7 +596,7 @@ header .container .ham-icon{
 
 @media(min-width:768px){
     .stats .container .box{
-        flex-basis: 25%;
+        flex-basis: 50%;
     }
 }
 .stats .container .box i{
@@ -619,6 +619,11 @@ header .container .ham-icon{
 .stats .container .box p{
     color: white;
     font-size: 14px;
+}
+@media(min-width:1199px){
+    .stats .container .box{
+        flex-basis: 25%;
+    }
 }
             /* skills section */
 .skills{
