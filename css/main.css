@@ -373,6 +373,7 @@ header .container .ham-icon{
     }
     .services .container .serv-content .serv i{
         margin-bottom: 20px;
+        margin-right: 0;
     }
     .services .container .serv-content .serv p{
         text-align: center;
