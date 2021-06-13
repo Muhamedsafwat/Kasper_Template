@@ -32,7 +32,8 @@ ul{
         }
         .contact .container .content .adress{
             display: flex;
-            justify-content: space-between;
+            justify-content: space-around;
+            margin: 20px 0 -30px 0;
         }   
         .about .container img{
             display: none;
@@ -379,7 +380,8 @@ header .container .ham-icon{
         text-align: center;
     }
     .services .container .serv-content .serv i{
-        margin-bottom: 20px;
+        margin: 0 0 20px 0;
+        
     }
     .services .container .serv-content .serv p{
         text-align: center;
